@@ -1,2 +1,2 @@
-# ERP
-Enterprise Resource Planning
+# SCM
+Supply Chain Management
