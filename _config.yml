@@ -1,15 +1,15 @@
 # ----
 # Site
 
-title: Prodaric ERP
+title: Prodaric SCM
 url: ""
-baseurl: "/ERP"
+baseurl: "/SCM"
 google_analytics_key: UA-138496171-1
 google_maps_javascript_api_key: AIzaSyDzKo2mOdmX99Og6hUtfZvZp3vJx9c_yI4
 disqus_shortname:
 
 logo: /images/logo.png
-description: "ERP: Enterprise Resource Planning"
+description: "SCM: Supply Chain Management"
 author:
   name: Neftalí Yagua
   email: despacho@neftaliyagua.com
